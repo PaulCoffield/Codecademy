@@ -1,0 +1,38 @@
+body {
+	font-family: helvetica;
+}
+
+h1 {
+	font-size: 100px;
+	font-weight: bold;
+	color: khaki;
+	text-align: center;
+	background-image: url(img/pattern.jpeg);
+}
+
+h2 {
+	color: white;
+	font-size: 32px;
+	font-weight: bold;
+}
+
+h2.green {
+	background-color: mediumspringgreen;
+}
+
+h2.coral {
+	background-color: lightcoral;
+}
+
+h2.blue {
+	background-color: skyblue;
+}
+
+.item-header {
+	font-weight: bold;
+}
+
+.item-price {
+	color: blue;
+	font-weight: bold;
+}
